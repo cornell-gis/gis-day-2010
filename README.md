@@ -3,6 +3,8 @@
 Wednesday, November 10, 2010 \
 Mann Library 102
 
+![GIS Day 2010 event graphic](image/gis-day-2010-slide.jpg)
+
 GIS Day is held each November during Geography Awareness Week, with events in more than 80 countries. Local events in Ithaca are organized by members of SynerGIS, a group of GIS professionals, managers, and students from Cornell, Tompkins County, and the surrounding area.
 
 ## Schedule of events
